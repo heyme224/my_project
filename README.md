@@ -5,4 +5,5 @@
 - network 공부하기
 - ansible 공부하기
 - terraform 공부하기
+- docker 공부하기
 
